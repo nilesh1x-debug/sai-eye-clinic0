@@ -1,11 +1,11 @@
 {
-  "compatibility_date": "2026-10-25",
+  "compatibility_date": "2026-10-26",
   "main": "index.mjs",
   "assets": {
     "binding": "ASSETS",
     "directory": "../public"
   },
-  "name": "tanstack-start-ts",
+  "name": "nilesh1x-debug-sai-eye-clinic0",
   "compatibility_flags": [
     "nodejs_compat"
   ],

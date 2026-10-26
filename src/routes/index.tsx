@@ -84,18 +84,48 @@ const WHY = [
 const TESTIMONIALS = [
   {
     quote:
-      "I have visited Sai Drishti Eye Care since 2013. Their quality and prices remain reasonable, and the service is very fabulous. The shop is very neat and clean... they made my glasses in just 10 minutes. Highly recommended.",
-    author: "Long-time patient",
+      "Very satisfied with the service and had an amazing experience with sunglasses and specs. I absolutely loved the work, quality and service was excellent. The staff was welcoming and professional.",
+    author: "Bhavna Dhadwal",
   },
   {
     quote:
-      "Got a pair of glasses, and the price as well as quality and variety is top-notch. World-class service. Strongly recommended.",
-    author: "Customer",
+      "Highly recommended if you're looking for any kind of eyewear or related services.",
+    author: "Avinash Jaggi",
   },
   {
     quote:
-      "The doctor is also very good — helped me understand about my eyes and prescribed me well. Staff is good, and free consultation, no fee.",
-    author: "Patient",
+      "My entire family and I have been getting our glasses from Sai Drishti Optical Shop for years, and the service has always been absolutely exceptional.",
+    author: "Vikram Jit Pal",
+  },
+  {
+    quote:
+      "Very good shop, and staff helped me fix my old lens in 5 mins. They can also make new prescription glasses and testing in 15 mins. Amazing.",
+    author: "Prateek Tiwari",
+  },
+  {
+    quote:
+      "I recently had my eyes checked and got new glasses made here, and the experience was outstanding. They took the time to carefully assess my vision.",
+    author: "Bhanu Vashishth",
+  },
+  {
+    quote:
+      "I have been visiting for my routine eye checkups. The doctors listen politely and answer all queries without rushing. The front desk staff is very responsive, and the pricing is quite reasonable.",
+    author: "Rupsi Kaur",
+  },
+  {
+    quote:
+      "Very very polite nature, and the frame quality and lens work is top notch. Best part is all types of frames are available according to the face shape.",
+    author: "Agam Saggu",
+  },
+  {
+    quote:
+      "I purchased my prescription glasses from here. I love the quality — everything comes with a one-year warranty. I highly recommend this place.",
+    author: "Arnav",
+  },
+  {
+    quote:
+      "Very good centre. They have a very good collection. I personally recommend this shop for different varieties of glasses, and they are cheaper than most of the shops.",
+    author: "Shaurya Bhardwaj",
   },
 ] as const;
 
