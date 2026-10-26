@@ -8,21 +8,21 @@ export const Route = createFileRoute("/")({
     meta: [
       {
         title:
-          "Sai Drishti Eye Care & Optics — Eye Clinic & Optical Store in Baddi",
+          "Sai Drishti Eye Care & Optics — Eye Clinic & Optical Store in Mohali",
       },
       {
         name: "description",
         content:
-          "Free computerized eye testing, pediatric eye care, contact lens fitting and a premium optical boutique in Baddi, Himachal Pradesh. Rated 4.9★ by 260 patients. Glasses ready in 10–20 minutes.",
+          "Free computerized eye testing, pediatric eye care, contact lens fitting and a premium optical boutique in Mohali. Rated 4.9★ by 260 patients. Glasses ready in 10–20 minutes.",
       },
       {
         property: "og:title",
-        content: "Sai Drishti Eye Care & Optics — Eye Clinic in Baddi",
+        content: "Sai Drishti Eye Care & Optics — Eye Clinic in Mohali",
       },
       {
         property: "og:description",
         content:
-          "Free eye testing, glasses in 10–20 minutes and a premium frame boutique. Serving Baddi since 2012. Rated 4.9★ by 260 patients.",
+          "Free eye testing, glasses in 10–20 minutes and a premium frame boutique. Serving Mohali since 2012. Rated 4.9★ by 260 patients.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -162,7 +162,7 @@ function Index() {
           </h1>
           <p className="mt-5 max-w-xl text-lg text-deep-foreground/90">
             Free computerized eye testing, glasses ready in 10–20 minutes, and a
-            premium boutique for frames and sunglasses — right here in Baddi.
+            premium boutique for frames and sunglasses — right here in Mohali.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <a
@@ -188,7 +188,7 @@ function Index() {
       <section className="border-b border-border bg-secondary">
         <div className="container-page grid grid-cols-2 gap-6 py-6 text-center md:grid-cols-4">
           {[
-            ["Since 2012", "Trusted in Baddi"],
+            ["Since 2012", "Trusted in Mohali"],
             ["Free eye test", "No consultation fee"],
             ["10–20 min", "Glasses ready fast"],
             [`${CLINIC.rating}★ rating`, `${CLINIC.reviewCount} happy reviews`],
@@ -280,7 +280,7 @@ function Index() {
             Patient voices
           </p>
           <h2 className="mt-3 font-display text-3xl font-bold text-foreground sm:text-4xl">
-            What Baddi says about us
+            What Mohali says about us
           </h2>
         </div>
         <div className="mt-12 grid gap-6 md:grid-cols-3">

@@ -9,12 +9,12 @@ export const Route = createFileRoute("/services")({
   head: () => ({
     meta: [
       {
-        title: "Eye Care Services — Sai Drishti Eye Care & Optics, Baddi",
+        title: "Eye Care Services — Sai Drishti Eye Care & Optics, Mohali",
       },
       {
         name: "description",
         content:
-          "Computerized eye testing, pediatric refraction, contact lens fitting and a premium optical boutique in Baddi, Himachal Pradesh. Eye tests are always free.",
+          "Computerized eye testing, pediatric refraction, contact lens fitting and a premium optical boutique in Mohali. Eye tests are always free.",
       },
       {
         property: "og:title",
@@ -23,7 +23,7 @@ export const Route = createFileRoute("/services")({
       {
         property: "og:description",
         content:
-          "Computerized eye testing, pediatric care, contact lenses and a premium optical boutique. Free eye testing in Baddi.",
+          "Computerized eye testing, pediatric care, contact lenses and a premium optical boutique. Free eye testing in Mohali.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

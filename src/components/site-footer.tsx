@@ -56,7 +56,7 @@ export function SiteFooter() {
 
       <div className="border-t border-white/10 py-5">
         <p className="container-page text-center text-xs text-deep-foreground/60">
-          © {new Date().getFullYear()} {CLINIC.name}, Baddi, Himachal Pradesh.
+          © {new Date().getFullYear()} {CLINIC.name}, Mohali.
           Information on this site is for general guidance — for medical advice,
           please consult our doctor in person.
         </p>

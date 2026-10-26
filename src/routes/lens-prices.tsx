@@ -7,12 +7,12 @@ export const Route = createFileRoute("/lens-prices")({
     meta: [
       {
         title:
-          "Lens Prices & Frame Brands — Sai Drishti Eye Care & Optics, Baddi",
+          "Lens Prices & Frame Brands — Sai Drishti Eye Care & Optics, Mohali",
       },
       {
         name: "description",
         content:
-          "Transparent lens and frame pricing at Sai Drishti Eye Care & Optics, Baddi. Free eye testing with every visit. Premium frames from Ray-Ban, Cartier, Prada and more.",
+          "Transparent lens and frame pricing at Sai Drishti Eye Care & Optics, Mohali. Free eye testing with every visit. Premium frames from Ray-Ban, Cartier, Prada and more.",
       },
       {
         property: "og:title",

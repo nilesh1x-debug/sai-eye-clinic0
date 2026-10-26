@@ -7,12 +7,12 @@ export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
       {
-        title: "About Us — Sai Drishti Eye Care & Optics, Baddi",
+        title: "About Us — Sai Drishti Eye Care & Optics, Mohali",
       },
       {
         name: "description",
         content:
-          "Serving Baddi since 2012 with free eye testing, honest pricing and personal care from Dr. Umesh Dada. Rated 4.9★ by 260 patients.",
+          "Serving Mohali since 2012 with free eye testing, honest pricing and personal care from Dr. Umesh Dada. Rated 4.9★ by 260 patients.",
       },
       {
         property: "og:title",
@@ -21,7 +21,7 @@ export const Route = createFileRoute("/about")({
       {
         property: "og:description",
         content:
-          "A trusted community eye clinic in Baddi since 2012, led by Dr. Umesh Dada. Rated 4.9★ by 260 patients.",
+          "A trusted community eye clinic in Mohali since 2012, led by Dr. Umesh Dada. Rated 4.9★ by 260 patients.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -41,7 +41,7 @@ const REVIEWS = [
   },
   {
     quote:
-      "The best and only Sai Drishti Eye Care in Baddi. All kinds of spectacles are available at reasonable prices. Free consultation, no fee.",
+      "The best and only Sai Drishti Eye Care in Mohali. All kinds of spectacles are available at reasonable prices. Free consultation, no fee.",
   },
   {
     quote:
@@ -58,7 +58,7 @@ function About() {
             About us
           </p>
           <h1 className="mt-3 max-w-2xl font-display text-4xl font-bold leading-tight sm:text-5xl">
-            A neighbourhood clinic Baddi has trusted since 2012
+            A neighbourhood clinic Mohali has trusted since 2012
           </h1>
         </div>
       </section>
