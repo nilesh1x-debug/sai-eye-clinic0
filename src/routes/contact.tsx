@@ -6,21 +6,21 @@ export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
       {
-        title: "Contact & Directions — Sai Drishti Eye Care & Optics, Baddi",
+        title: "Contact & Directions — Sai Drishti Eye Care & Optics, Mohali",
       },
       {
         name: "description",
-        content:
-          "Visit Sai Drishti Eye Care & Optics at Homeland City Mall, Sai Road, Baddi, Himachal Pradesh. Book a free eye test on WhatsApp.",
+          content:
+            "Visit Sai Drishti Eye Care & Optics at Sector 123, Sunny Enclave, Kharar (Mohali). Book a free eye test on WhatsApp.",
       },
       {
         property: "og:title",
-        content: "Contact Sai Drishti Eye Care & Optics, Baddi",
+        content: "Contact Sai Drishti Eye Care & Optics, Mohali",
       },
       {
         property: "og:description",
         content:
-          "Find us at Homeland City Mall, Sai Road, Baddi. Book your free eye test on WhatsApp.",
+          "Find us at Sector 123, Sunny Enclave, Kharar (Mohali). Book your free eye test on WhatsApp.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -57,7 +57,7 @@ function Contact() {
               {CLINIC.address}
             </p>
             <a
-              href="https://www.google.com/maps/search/?api=1&query=Sai+Drishti+Eye+Care+and+Optics+Sai+Road+Baddi+Himachal+Pradesh"
+              href="https://www.google.com/maps/search/?api=1&query=Sai+Drishti+Eye+Care+and+Optics+Sector+123+Sunny+Enclave+Kharar+Mohali"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-4 inline-block text-sm font-semibold text-primary hover:underline"
