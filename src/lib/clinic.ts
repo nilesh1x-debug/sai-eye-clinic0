@@ -10,7 +10,7 @@ export const CLINIC = {
   name: "Sai Drishti Eye Care & Optics",
   shortName: "Sai Drishti",
   tagline: "Clear vision, honest prices — serving Mohali since 2012",
-  established: 2012,
+  established: 2023,
   address: "Sector 123, Sunny Enclave, Kharar (Mohali)",
   doctor: "Dr. Umesh Dada",
   rating: "4.9",
