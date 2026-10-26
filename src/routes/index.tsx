@@ -22,7 +22,7 @@ export const Route = createFileRoute("/")({
       {
         property: "og:description",
         content:
-          "Free eye testing, glasses in 10–20 minutes and a premium frame boutique. Serving Mohali since 2012. Rated 4.9★ by 260 patients.",
+          "Free eye testing, glasses in 10–20 minutes and a premium frame boutique. Serving Mohali since 2023. Rated 4.9★ by 260 patients.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -158,7 +158,7 @@ function Index() {
           </span>
           <h1 className="mt-6 max-w-2xl font-display text-4xl font-bold leading-tight sm:text-5xl">
             Clear vision, honest prices —{" "}
-            <span className="text-gold-gradient">since 2012</span>
+            <span className="text-gold-gradient">since 2023</span>
           </h1>
           <p className="mt-5 max-w-xl text-lg text-deep-foreground/90">
             Free computerized eye testing, glasses ready in 10–20 minutes, and a
@@ -188,7 +188,7 @@ function Index() {
       <section className="border-b border-border bg-secondary">
         <div className="container-page grid grid-cols-2 gap-6 py-6 text-center md:grid-cols-4">
           {[
-            ["Since 2012", "Trusted in Mohali"],
+            ["Since 2023", "Trusted in Mohali"],
             ["Free eye test", "No consultation fee"],
             ["10–20 min", "Glasses ready fast"],
             [`${CLINIC.rating}★ rating`, `${CLINIC.reviewCount} happy reviews`],

@@ -9,7 +9,7 @@ export const WHATSAPP_NUMBER = "919736001159";
 export const CLINIC = {
   name: "Sai Drishti Eye Care & Optics",
   shortName: "Sai Drishti",
-  tagline: "Clear vision, honest prices — serving Mohali since 2012",
+  tagline: "Clear vision, honest prices — serving Mohali since 2023",
   established: 2023,
   address: "Sector 123, Sunny Enclave, Kharar (Mohali)",
   doctor: "Dr. Umesh Dada",

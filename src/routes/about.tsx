@@ -12,7 +12,7 @@ export const Route = createFileRoute("/about")({
       {
         name: "description",
         content:
-          "Serving Mohali since 2012 with free eye testing, honest pricing and personal care from Dr. Umesh Dada. Rated 4.9★ by 260 patients.",
+          "Serving Mohali since 2023 with free eye testing, honest pricing and personal care from Dr. Umesh Dada. Rated 4.9★ by 260 patients.",
       },
       {
         property: "og:title",
@@ -21,7 +21,7 @@ export const Route = createFileRoute("/about")({
       {
         property: "og:description",
         content:
-          "A trusted community eye clinic in Mohali since 2012, led by Dr. Umesh Dada. Rated 4.9★ by 260 patients.",
+          "A trusted community eye clinic in Mohali since 2023, led by Dr. Umesh Dada. Rated 4.9★ by 260 patients.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -58,7 +58,7 @@ function About() {
             About us
           </p>
           <h1 className="mt-3 max-w-2xl font-display text-4xl font-bold leading-tight sm:text-5xl">
-            A neighbourhood clinic Mohali has trusted since 2012
+            A neighbourhood clinic Mohali has trusted since 2023
           </h1>
         </div>
       </section>
@@ -77,12 +77,10 @@ function About() {
             Our story
           </h2>
           <p>
-            {CLINIC.name} opened its doors in 2012 at Homeland City Mall on Sai
-            Road, with a simple idea: world-class eye care and honest pricing,
-            close to home.
+            {CLINIC.name} opened its doors in 2023 at Sector 123, Sunny Enclave, Kharar (Mohali),
           </p>
           <p>
-            Over a decade later, more than 260 Google reviews rate us{" "}
+            Since opening, more than 260 Google reviews rate us{" "}
             {CLINIC.rating} out of 5 — and the words that come up again and
             again are "neat", "clean", "transparent" and "they actually explain
             things".
