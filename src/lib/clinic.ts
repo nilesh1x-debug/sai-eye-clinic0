@@ -4,7 +4,7 @@
 // number. Replace WHATSAPP_NUMBER with the real number (country code, no
 // "+", no spaces, e.g. "919876543210") as soon as it is provided.
 
-export const WHATSAPP_NUMBER = "919999999999"; // PLACEHOLDER — real number pending
+export const WHATSAPP_NUMBER = "919736001159";
 
 export const CLINIC = {
   name: "Sai Drishti Eye Care & Optics",
