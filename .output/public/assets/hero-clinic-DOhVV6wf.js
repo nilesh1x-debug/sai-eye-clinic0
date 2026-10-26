@@ -1,0 +1,1 @@
+var e=`/assets/hero-clinic-ZFn4Cnvb.jpg`;export{e as t};
