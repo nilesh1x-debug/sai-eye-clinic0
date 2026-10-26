@@ -17,7 +17,7 @@ export const CLINIC = {
   reviewCount: 260,
   hours: "Open daily — call or WhatsApp to confirm today's timings",
   mapEmbed:
-    "https://www.google.com/maps?q=Sai+Drishti+Eye+Care+and+Optics+Sai+Road+Baddi+Himachal+Pradesh&output=embed",
+    "https://maps.app.goo.gl/vDg6KvhiNVXYsxmx6",
 } as const;
 
 export function whatsappLink(message: string): string {
